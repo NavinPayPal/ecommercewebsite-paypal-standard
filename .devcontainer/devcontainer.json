@@ -3,7 +3,7 @@
     "name": "Ecommerce Website with Standard Checkout Experience",
     "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}/",
     "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
-    "postCreateCommand": "npm install --ignore-scripts",
+    "postCreateCommand": "npm install --save --legacy-peer-deps --ignore-scripts",
     "postAttachCommand": {
       "Start server": "CI=true npx kill-port --yes 8080 && npm start"
     },
