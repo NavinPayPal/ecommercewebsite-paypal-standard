@@ -25,4 +25,4 @@ npm run dev
 
 ### Link to codespaces 
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/NavinPayPal/ecommercewebsite-paypal-standardcheckout)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/NavinPayPal/ecommercewebsite-paypal-standard)
